@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="authenticaiton">Authenticaiton</string>
+    <string name="create_account">Create Account</string>
+    <string name="authentication">Authentication</string>
+    <string name="registration">Registration</string>
+    <string name="password">Password</string>
+     <string name="register">Register</string>
+    <string name="login_here">Login Here</string>
+</resources>
